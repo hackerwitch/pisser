@@ -1,0 +1,32 @@
+SERVER:
+- make a draft in comments
+- technologies. framework or small modules? static file serving? caching? do we need cookies? logging? form parsing?
+- write the code.
+
+DB:
+- draft in comments
+- pick a database(level, level-places, sublevel, memdown for dev, explore leveldown alternatives to the native module)
+- plan out our data structure
+- make a test script for database
+- make sure db is easy to setup
+- create some demo data
+
+CLIENTSIDE(js):
+- code the javaScript
+- pick a mapping service (open street maps)
+- pick an address service
+
+CLIENTSIDE(html/css):
+- design it. (mobile first)
+- code the html
+- code the css
+- test it on mobile
+
+PROJECT:
+- create a git repo.
+- create a readme for contributors
+- create a list of issues in github for contributors and ourselves
+
+POST:
+- deploy
+- tell people about it
